@@ -1,3 +1,4 @@
+![Circuit design Funky Jaban _ Tinkercad - Google Chrome 31_03_2021 14_22_06](https://user-images.githubusercontent.com/78861070/113185186-83a86680-922c-11eb-8082-e6a204405262.png)
 # Arduino_AC1
 ## Nossa primeira AC, observe bem o código, procure pelos erros.
 
