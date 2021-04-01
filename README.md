@@ -5,3 +5,20 @@ Grupo: Lion Eye
 Integrantes: Fernanda, Giulia, Hytalo, Marcos. 
 
 Fernanda Alves: 
+Montagem no TinkerCad
+Configurações no código
+![image](https://user-images.githubusercontent.com/79206783/113346305-0ce19b00-930a-11eb-9c3a-ea3f20a04e98.png)
+
+Giulia Nobre: 
+Configurações no código 
+Readme
+![image](https://user-images.githubusercontent.com/79206783/113346473-42868400-930a-11eb-9475-699e1f5e113d.png)
+
+Hytalo Dos Santos: 
+Short Bio 
+![image](https://user-images.githubusercontent.com/79206783/113346605-72358c00-930a-11eb-8bda-bb7de19098f3.png)
+
+Marcos Guido: 
+Documentou trabalho:
+![image](https://user-images.githubusercontent.com/79206783/113346670-88dbe300-930a-11eb-8058-bc7ca02050ed.png)
+
