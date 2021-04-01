@@ -15,10 +15,10 @@ Readme
 ![image](https://user-images.githubusercontent.com/79206783/113346473-42868400-930a-11eb-9475-699e1f5e113d.png)
 
 Hytalo Dos Santos: 
-Short Bio 
+Short Bio  
 ![image](https://user-images.githubusercontent.com/79206783/113346605-72358c00-930a-11eb-8bda-bb7de19098f3.png)
 
 Marcos Guido: 
-Documentou trabalho:
+Documentou trabalho  
 ![image](https://user-images.githubusercontent.com/79206783/113346670-88dbe300-930a-11eb-8058-bc7ca02050ed.png)
 
