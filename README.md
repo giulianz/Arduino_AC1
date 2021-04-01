@@ -27,3 +27,20 @@ Marcos Guido:
 Documentou trabalho  
 ![image](https://user-images.githubusercontent.com/79206783/113346670-88dbe300-930a-11eb-8058-bc7ca02050ed.png)
 
+Documentação do trabalho:  
+
+Short bio, com identificação e funções dos integrantes;  
+
+Montagem no Tinkercad;  
+
+Configuração do código; 
+
+Projeto comentado; 
+
+Um botão para ligar e outro para desligar; 
+
+Read me com foto e nome completo dos integrantes; 
+
+Código comentado; 
+
+Implementação das funcionalidades faltantes;
