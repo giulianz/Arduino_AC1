@@ -29,7 +29,7 @@ Documentou trabalho
 
 Documentação do trabalho:  
 
-Short bio, com identificação e funções dos integrantes; 
+Short bio, com identificação e funções dos integrantes;  
 
 Montagem no Tinkercad;  
 
