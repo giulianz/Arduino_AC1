@@ -2,7 +2,12 @@
 Nossa primeira AC, observe bem o codigo, procure pelos erros
 Grupo: Lion Eye 
 
-Integrantes: Fernanda, Giulia, Hytalo, Marcos. 
+Integrantes: Fernanda, Giulia, Hytalo, Marcos.
+
+AC TINKERCAD:
+![image](https://user-images.githubusercontent.com/79206783/113356738-263e1380-9319-11eb-992f-792a5c89c132.png)
+
+
 
 Fernanda Alves: 
 Montagem no TinkerCad
